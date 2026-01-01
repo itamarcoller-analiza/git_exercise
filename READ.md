@@ -1,31 +1,33 @@
 
 # Github excersize walkthrough
 
-* # Login your git and click the new button
+# # Phase 1
+
+     # Login your git and click the new button 
 ![alt text](image.png)
 
 
-* # give a name and create the repository 
+     # give a name and create the repository 
 ![alt text](image-1.png)
 
-* # copy the url 
+     # copy the url 
 ![alt text](image-2.png)
 
-* # do the next commands in your CMD
+     # do the next commands in your CMD
 ![alt text](image-3.png)
 
 
-* # Add a READ.md file with a text: "first commit"
-* # git add .
-* # git commit -m "first commit"
-* # git branch -M main
-* # git push -u origin main
+     # Add a READ.md file with a text: "first commit"
+     # git add .
+     # git commit -m "first commit"
+     # git branch -M main
+     # git push -u origin main
 
-* # That what you will see in the github: 
+     # That what you will see in the github: 
 ![alt text](image-4.png)
 
 
-# Now create we create a branch 
+# #Phase 2:  Now create we create a branch 
 
 * # git branch - will show you on which branch you are, you suppose to be on main branch ![alt text](image-5.png)
 
@@ -41,3 +43,12 @@
 * # Now you will see the remote main branch merged completed: ![alt text](image-14.png)
 
 # Now you will need to update your local main branch
+
+* # checkout to the main branch: ![alt text](image-15.png)
+
+* # now to update your local main you need to pull from remove: ![alt text](image-16.png)
+
+
+
+## Now you got what it takes to handle branches !! Congratz!!!!
+## if you want to create mroe branchs, do phase 2 all over again :) 
